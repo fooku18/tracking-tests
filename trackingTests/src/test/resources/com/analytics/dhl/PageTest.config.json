@@ -1,0 +1,9 @@
+{
+    "run":{
+        "credits": 20,
+        "classes": 2
+    },
+    "config":{
+        "sitemapPath": "C:\\DCI\\Jobs\\Tests\\sitemap.xml"
+    }
+}
